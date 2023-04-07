@@ -1,5 +1,5 @@
 ## SamFirmware
-SamFirmware is a Samsung Firmware Builder application that allows you to customize your firmware by adding or removing desired .img files. With SamFirmware, you can create a firmware that is tailored to your specific needs and ready to flash onto your Samsung device.
+`SamFirmware` is a Samsung Firmware Builder application that allows you to customize your firmware by adding or removing desired .img files. With `SamFirmware`, you can create a firmware that is tailored to your specific needs and ready to flash onto your Samsung device.
 
 ## Features
 Add or remove .img files from your firmware
@@ -18,4 +18,8 @@ cache.img: This file contains the cache partition, which is used to store tempor
 userdata.img: This file contains the user data partition, which is used to store user data such as app data, contacts, messages, and media files.
 
 ## Contributing
-If you find any issues with SamFirmware or would like to contribute to the project, please feel free to submit a pull request or open an issue on the Github repository.
+If you find any issues with `SamFirmware` or would like to contribute to the project, please feel free to submit a pull request or open an issue on the Github repository.
+
+
+## License
+`SamFirmware` is licensed under the [Creative Commons Attribution-NonCommercial (CC BY-NC) license](https://creativecommons.org/licenses/by-nc/4.0/).
